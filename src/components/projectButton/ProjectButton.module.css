@@ -1,0 +1,24 @@
+.box_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 66px;
+  padding-bottom: 161px;
+}
+.inner_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 9px;
+  width: 180px;
+  height: 48px;
+  border-radius: 10px;
+  border: none;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.75px;
+  color: hsla(0, 0%, 100%, 1);
+  background-color: hsla(234, 100%, 61%, 1);
+  cursor: pointer;
+}

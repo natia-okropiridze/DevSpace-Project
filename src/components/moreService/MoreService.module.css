@@ -1,0 +1,103 @@
+/* .container_moreService {
+  width: 83%;
+  margin: 0 auto;
+} */
+
+/* .box_moreService {
+  display: flex;
+  gap: 24px;
+  height: 190px;
+} */
+/* .moreService_title {
+  font-family: Roboto;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 46.88px;
+  text-align: left;
+  padding-top: 84px;
+  padding-bottom: 38px;
+  color: hsla(0, 0%, 98%, 1);
+} */
+.inner_moreService {
+  width: 100%;
+  border-radius: 10px;
+  background-color: hsla(0, 0%, 98%, 1);
+}
+.box_image {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 18px;
+  padding-left: 18px;
+}
+.inner_image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 74px;
+  height: 74px;
+  border-radius: 6px;
+  background-color: hsla(274, 78%, 62%, 0.3);
+}
+.moreService_image {
+  width: 36.67px;
+  height: 40px;
+}
+.inner_icon {
+  width: 69px;
+  height: 43px;
+}
+.moreService_icon {
+  font-family: Roboto;
+  font-size: 60px;
+  font-weight: 600;
+  line-height: 70.31px;
+  text-align: center;
+  color: hsla(244, 55%, 41%, 1);
+}
+.moreService_subtitle {
+  font-family: Roboto;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 25.78px;
+  padding-top: 11px;
+  padding-left: 18px;
+  color: hsla(0, 0%, 0%, 1);
+}
+.moreService_text {
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 14.06px;
+  padding-top: 9px;
+  padding-left: 18px;
+  color: hsla(0, 0%, 0%, 1);
+}
+.arrow_icon {
+  padding-top: 9px;
+  padding-left: 18px;
+  padding-bottom: 19px;
+}
+/* .box_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 54px;
+  padding-bottom: 89px;
+}
+.inner_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 9px;
+  width: 180px;
+  height: 48px;
+  border-radius: 10px;
+  border: none;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.75px;
+  color: hsla(0, 0%, 100%, 1);
+  background-color: hsla(234, 100%, 61%, 1);
+} */

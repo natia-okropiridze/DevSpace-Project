@@ -1,0 +1,6 @@
+.container_slider {
+  display: flex;
+  gap: 24px;
+  width: 83%;
+  margin-top: 66px;
+}

@@ -1,0 +1,49 @@
+.container_aboutUs {
+  width: 83%;
+  margin: 0 auto;
+}
+
+.box_aboutUs {
+  height: 17px;
+  padding-top: 251px;
+}
+.container_development {
+  position: relative;
+  left: -23px;
+  display: flex;
+  gap: 10px;
+  padding-top: 55px;
+  align-items: flex-start;
+}
+.container_development_img_box {
+  padding-top: 6px;
+}
+.development_text {
+  font-family: Roboto;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 46.88px;
+  color: hsla(0, 0%, 98%, 1);
+}
+.box_text {
+  padding-top: 22px;
+}
+.box_inner_text {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 23.44px;
+  text-align: justified;
+  color: hsla(0, 0%, 98%, 1);
+}
+.developmentImage {
+  margin-bottom: 35px;
+}
+@media screen and (max-width: 1030px) {
+  .developmentImage {
+    display: none;
+  }
+  .development_text {
+    padding-left: 20px;
+  }
+}
